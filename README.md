@@ -1,4 +1,4 @@
-### Hi there 👋
 
-<h1> my name is Minho Cho 🧑🏻‍💻 </h1>
+<h1> hi! welcome to my page<br>
+my name is Minho Cho 🧑🏻‍💻 </h1>
 
