@@ -1,6 +1,6 @@
 
 <h1> hi! welcome to my page!<br>
-my name is Minho Cho 🧑🏻‍💻 </h1><br>
+my name is Minho Cho 🧑🏻‍💻 </h1>
 <br>
 Styding HTML, CSS, Java Script, REACT
 
