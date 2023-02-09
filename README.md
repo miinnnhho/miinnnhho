@@ -1,7 +1,7 @@
 
-<h1> hi! welcome to my page!<br>
-my name is Minho Cho 🧑🏻‍💻 </h1>
+<h1> hi! welcome to my page!</h1>
+<br>My name is Minho Cho 🧑🏻‍💻 
 <br>
-Styding HTML, CSS, Java Script, REACT
+studying HTML, CSS, Java Script, REACT
 
 
