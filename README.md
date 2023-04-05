@@ -15,7 +15,7 @@
 <div align:center>
 <h3>Social🙋🏻‍♂️</h3>
 <a href="https://www.instagram.com/miinnnhho/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+<a href="https://miinnnhho.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 </div>
 
 
