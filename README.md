@@ -3,7 +3,7 @@
 
 
 
-<div style ="text-align: center;">
+<div align="center">
 <h3>Use🧑🏻‍💻</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 </div>
 
-<div style ="text-align: center;">
+<div align="center">
 <h3>Social🙋🏻‍♂️</h3>
 <a href="https://www.instagram.com/miinnnhho/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 <a href="https://miinnnhho.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
